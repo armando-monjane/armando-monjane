@@ -1,1 +1,1 @@
-React Developer
+Fullstack developer
